@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Source Sans Pro',sans-serif;
+ 
+}
+
+#body, #about, #projects, #contact, #Skill{
+    background: #fffefe;
+    color: #000000;
+    
+}
