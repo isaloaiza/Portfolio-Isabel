@@ -18,7 +18,7 @@ export const Projects = () => {
         <div className="flex flex-col gap-2">
           <a href="https://incredible-torte-d7ffa3.netlify.app/">
           <img
-            src="../public/gitHub/peliculas.PNG"
+            src="https://i.ibb.co/F6zNy2M/peliculas.png"
             className="w-full h-[600px] object-cover rounded-3xl"
           />
           </a>
@@ -33,7 +33,7 @@ export const Projects = () => {
           <div className="flex flex-col gap-4">
             <a href="https://fanciful-sorbet-e105cb.netlify.app/">
             <img
-              src="../public/gitHub/telefono.PNG"
+              src="https://i.ibb.co/DQPfM3P/telefono.png"
               className="w-full h-56 object-cover rounded-3xl"
             />
             </a>
@@ -44,7 +44,7 @@ export const Projects = () => {
           <div className="flex flex-col gap-4">
             <a href="https://latinlover.netlify.app/">
             <img
-              src="../public/gitHub/hoja.PNG"
+              src="https://i.ibb.co/bscC0KB/hoja.png"
               className="w-full h-56 object-cover rounded-3xl"
             />
             </a>
@@ -56,7 +56,7 @@ export const Projects = () => {
           <div className="flex flex-col gap-4">
           <a href="https://incredible-torte-d7ffa3.netlify.app/">
           <img
-            src="../public/gitHub/peliculas.PNG"
+            src="https://i.ibb.co/F6zNy2M/peliculas.png"
             className="w-full h-56 object-cover rounded-3xl"
           />
           </a>
@@ -68,7 +68,7 @@ export const Projects = () => {
           <div className="flex flex-col gap-4">
             <a href="https://legendary-churros-38f3a6.netlify.app/">
             <img
-              src="../public/gitHub/Blueasy.PNG"
+              src="https://i.ibb.co/nMtQQkf/Blueasy.png"
               className="w-full h-56 object-cover rounded-3xl"
             />
             </a>

@@ -10,7 +10,7 @@ export const Body = () => {
                     <h1 className="text-5xl xl:text-7xl font-bold xl:leading-[7.5rem]">
                         programmer in development{" "}
                         <span className="py-2 px-6 border-8 border-pink-900 relative inline-block text-emerald-700">
-                            FronEnd
+                            FrontEnd
                         </span>
                     </h1>
                     <p className="text-black text-2xl leading-[2.5rem]">
