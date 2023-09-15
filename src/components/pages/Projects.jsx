@@ -54,15 +54,15 @@ export const Projects = () => {
             </h3>
           </div>
           <div className="flex flex-col gap-4">
-          <a href="https://incredible-torte-d7ffa3.netlify.app/">
+          <a href="https://rickand-morty-phi.vercel.app/">
           <img
-            src="https://i.ibb.co/F6zNy2M/peliculas.png"
+            src="https://i.ibb.co/rwmT0Kq/Rickand-Morty.png"
             className="w-full h-56 object-cover rounded-3xl"
           />
           </a>
             
             <h3 className="text-2xl font-bold">
-            ITV- film platform
+            Rick and Morty
             </h3>
           </div>
           <div className="flex flex-col gap-4">
